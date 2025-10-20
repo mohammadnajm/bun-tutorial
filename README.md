@@ -119,4 +119,4 @@ src/
 
 ## License
 
-MIT © 2025 — Created as a **tutorial demo** to learn and experiment with [Bun](https://bun.sh)
+MIT © 2025 — Created as a **tutorial demo** to learn and experiment with [Bun](https://bun.com)
